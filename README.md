@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TAvsec
+- 👋 Hi, I’m Timotej Avsec, full-stack developer from Ljubljana, Slovenia.
 - 👀 I’m interested in web development and devops.
 - 🌱 I’m currently learning serverless technologies.
 - 💞️ I’m looking to collaborate on Laravel projects.

@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m Timotej Avsec, Backend developer and DevOps engineer from Ljubljana, Slovenia.
 - 👀 I’m interested in web development and DevOps.
 - 🌱 I’m currently learning Golang.
@@ -26,6 +27,19 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+# Projects
+## Marketron
+Simple application for generating website mockups on real-world devices.  
+https://marketron.app/
+
+## Laravel DotDigital Mail Driver
+Plug and play Laravel transaction email driver for [DotDigital](https://dotdigital.com/) platform.  
+https://github.com/tavsec/laravel-dotdigital-mail-driver
+
+## Personal website
+Simple, frontend only, personal website.  
+https://www.timotejavsec.com
 
 
 <!---

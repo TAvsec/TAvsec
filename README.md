@@ -30,7 +30,7 @@
 
 # Projects
 ## Gin Healthcheck
-Go package, which adds (Kubernetes compatible) healthcheck to Go Gin Gonic application. 
+Go package, which adds (Kubernetes compatible) healthcheck to Go Gin Gonic application.  
 https://github.com/tavsec/gin-healthcheck
 
 ## Marketron

@@ -29,6 +29,10 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # Projects
+## Gin Healthcheck
+Go package, which adds (Kubernetes compatible) healthcheck to Go Gin Gonic application.
+https://github.com/tavsec/gin-healthcheck
+
 ## Marketron
 Simple application for generating website mockups on real-world devices.  
 https://marketron.app/
@@ -41,8 +45,3 @@ https://github.com/tavsec/laravel-dotdigital-mail-driver
 Simple, frontend only, personal website.  
 https://www.timotejavsec.com
 
-
-<!---
-TAvsec/TAvsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

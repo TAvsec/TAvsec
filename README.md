@@ -33,6 +33,10 @@
 Go package, which adds (Kubernetes compatible) healthcheck to Go Gin Gonic application.  
 https://github.com/tavsec/gin-healthcheck
 
+## Raycast Hasher plugin
+Raycast plugin, which generates a hash for a given string.  
+https://github.com/tavsec/raycast-hasher
+
 ## Marketron
 Simple application for generating website mockups on real-world devices.  
 https://marketron.app/

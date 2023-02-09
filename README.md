@@ -5,6 +5,12 @@
 - 💞️ I’m looking to collaborate on Laravel projects, Golang projects, or anything that has to do with DevOps!
 - 📫 You can reach me directly on GitHub.
 
+# Certifications 
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f47b1358-94b5-4728-b605-c8d1346c4497/public_url)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/e49b4f0b-7514-4dbe-bdaf-53b396b6a8b9/public_url)
+
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/220x220/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/ea37a73d-458d-4e29-b4f1-a76b3d012266/public_url)
+
 # My tech stack
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)

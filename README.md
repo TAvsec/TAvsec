@@ -39,6 +39,10 @@
 Go package, which adds (Kubernetes compatible) healthcheck to Go Gin Gonic application.  
 https://github.com/tavsec/gin-healthcheck
 
+## Discord ChatGPT bot
+Simple ChatGPT wrapper used in Discord bot.
+https://github.com/tavsec/discord-chatgpt
+
 ## Raycast Hasher plugin
 Raycast plugin, which generates a hash for a given string.  
 https://github.com/tavsec/raycast-hasher

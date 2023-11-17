@@ -11,6 +11,10 @@
 
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/120x120/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/ea37a73d-458d-4e29-b4f1-a76b3d012266/public_url)
 
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/120x120/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/2c0150dc-3539-4206-88d3-2968e2f507de/public_url)
+
+
+
 # My tech stack
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)

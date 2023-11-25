@@ -51,14 +51,6 @@ https://github.com/tavsec/discord-chatgpt
 Raycast plugin, which generates a hash for a given string.  
 https://github.com/tavsec/raycast-hasher
 
-## Marketron
-Simple application for generating website mockups on real-world devices.  
-https://marketron.app/
-
-## Laravel Opentelemetry [WIP]
-Laravel plugin with Open Telemetry exporter.  
-https://github.com/tavsec/laravel-opentelemetry
-
 ## Laravel DotDigital Mail Driver
 Plug and play Laravel transaction email driver for [DotDigital](https://dotdigital.com/) platform.  
 https://github.com/tavsec/laravel-dotdigital-mail-driver
